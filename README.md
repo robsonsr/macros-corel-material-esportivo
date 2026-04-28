@@ -2,7 +2,7 @@
 ## Introdução
 Este repositório reúne um conjunto de macros desenvolvidas para otimizar o processo de criação e preparação de materiais esportivos no CorelDRAW. O objetivo é automatizar tarefas repetitivas, reduzir erros manuais e aumentar a produtividade no dia a dia, especialmente em fluxos de produção que envolvem grandes quantidades de peças, como uniformes personalizados.
 
-Essas macros foram criadas por mim há cerca de 10 anos, quando eu ainda era iniciante na área de desenvolvimento, como forma de estudo e experimentação com automação dentro do CorelDRAW. Com o tempo, acabaram se mostrando úteis para resolver problemas reais de produção.
+Essas macros foram criadas por mim há cerca de 10 anos, quando eu ainda era iniciante na área de desenvolvimento, utilizando ***VBA (Visual Basic for Applications)*** como forma de estudo e experimentação com automação dentro do CorelDRAW. Com o tempo, acabaram se mostrando úteis para resolver problemas reais de produção.
 
 Com elas, é possível gerar mosaicos de impressão de forma inteligente, além de inserir nomes e números em lote de maneira rápida e padronizada. Isso elimina a necessidade de edição manual item por item, tornando o processo mais ágil e consistente.
 
