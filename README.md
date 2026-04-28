@@ -1,4 +1,12 @@
-# Macros úteis para o trabalho de design de material esportivo
+# Macros úteis para design de material esportivo
+## Introdução
+Este repositório reúne um conjunto de macros desenvolvidas para otimizar o processo de criação e preparação de materiais esportivos no CorelDRAW. O objetivo é automatizar tarefas repetitivas, reduzir erros manuais e aumentar a produtividade no dia a dia, especialmente em fluxos de produção que envolvem grandes quantidades de peças, como uniformes personalizados.
+
+Essas macros foram criadas por mim há cerca de 10 anos, quando eu ainda era iniciante na área de desenvolvimento, como forma de estudo e experimentação com automação dentro do CorelDRAW. Com o tempo, acabaram se mostrando úteis para resolver problemas reais de produção.
+
+Com elas, é possível gerar mosaicos de impressão de forma inteligente, além de inserir nomes e números em lote de maneira rápida e padronizada. Isso elimina a necessidade de edição manual item por item, tornando o processo mais ágil e consistente.
+
+Espero que esse material também possa ser útil para outras pessoas que enfrentam desafios semelhantes no dia a dia.
 ## Carregar macros no corel
 <img width="598" height="389" alt="image" src="https://github.com/user-attachments/assets/9bb29970-fe86-4bc6-bfdc-e1512fbbda4c" />
 <img width="292" height="301" alt="image" src="https://github.com/user-attachments/assets/aab51888-691c-42b6-ac36-366c96b23093" />
